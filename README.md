@@ -11,7 +11,7 @@ If you don't know, CSS Modules is a method to add local scope and module depende
 First, clone the repo.
 
 ```bash
-$ git clone https://github.com/ruanyf/css-modules-demos.git
+$ git clone https://github.com/est9527/css-modules-demos.git
 ```
 
 Install the dependencies.
